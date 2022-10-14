@@ -1,0 +1,14 @@
+body{
+	background-color: grey;
+}
+
+.cool{
+	width: 150px;
+	height: 150px;
+	background-color: orange;
+	transition: background-color 1s;
+}
+
+.cool.blue{
+	background-color: blue;
+}
